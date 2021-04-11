@@ -54,5 +54,5 @@ The tweets were plotted on word clouds. Figure 4 and 5 show the word clouds for 
 ![Picture4](https://user-images.githubusercontent.com/64619851/114301136-ceec3000-9adc-11eb-9b6b-1e46e8d6c4e3.jpg)
 ![Picture5](https://user-images.githubusercontent.com/64619851/114301138-cf84c680-9adc-11eb-90ca-0a1a635d2394.jpg)
 
-
+From Dataset-3, data from 2015-20 was chosen derive a market trend for e-learning. The statistical data is showing all students enrolled in distance learning based on the level of the education. We are observing a major increase in the enrollment in distance learning at University level. There is an increase of 1 to 2 percentage in the previous enrolment every year. While there is an increase of 0.2 to 0.4 percent enrollment of students after graduation.
 
