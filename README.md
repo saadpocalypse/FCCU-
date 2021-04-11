@@ -1,4 +1,4 @@
-# Stanford_Data_Project-Dataset_2:  
+# Stanford_Data_Project:
 
 
 The year 2020 had brought significant changes in the world of education. E-learning replaced in-person interaction to continue academic programs, circumventing the spread of Covid-19.  From the very start, enough grievances were raised to warrant dialogue into this matter. Many students and teachers realized that they were ill-equipped to transition into online frameworks. The sudden impetus for change had uncovered a plethora of foundational problems in Pakistan’s education system. Unlike institutions in developed nations, that had been adopting contemporary teaching methodologies, for many years, Pakistan lacked the environment to implement a comparable framework. Pakistani education has historically struggled to keep up with top tier institutions; the new circumstances have only exasperated the disparity. Pakistan is ranked 152 out of 189 countries in the United Nations Development Program (UNDP) Human Development Index (HDI) ranking.
