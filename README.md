@@ -53,6 +53,8 @@ The tweets were plotted on word clouds. Figure 4 and 5 show the word clouds for 
 
 ![Picture4](https://user-images.githubusercontent.com/64619851/114301136-ceec3000-9adc-11eb-9b6b-1e46e8d6c4e3.jpg)
 ![Picture5](https://user-images.githubusercontent.com/64619851/114301138-cf84c680-9adc-11eb-90ca-0a1a635d2394.jpg)
+![image](https://user-images.githubusercontent.com/63796888/114313944-193bd400-9b12-11eb-8944-540b784c0411.png)
+
 
 From Dataset-3, we used data from 2015-20 to derive a market trend for e-learning demand. We found that students from title IV institutions who enrolled online entirely or partially comprised 36.6% of the e-learning market share, 2019-20. The annual shares are shown in Figure 6. A linear trend is seen for market growth this indicates the market to be maturing. Over the five years there was an average growth rate of 1.46%.
 
