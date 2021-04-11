@@ -48,7 +48,7 @@ Dataset 2 was first processed through a Natural Language Processing algorithm fo
 
 Figures above show a scatter plot of all the tweets by polarity and subjectivity. The high density of green points (positive), as compared to blue (negative) supports the bar graph evidence that there are far more positive tweets than negative. Moreover, as we move from the vertical center of the scatter plot, we see that there are less points on the plot. This shows that majority of the tweets gravitate towards a more neutral stance. Polarizing i.e. extreme tweets are comparatively sparce. The scatter of green points covers the area distant from the vertical center more densely than the scatter of blue points. Thus we see that the positive tweets are more polarized, more expressive, than negative tweets. The scatter of the positive and negative tweets roughly forms a “V” shape, with the population of tweets thinning as we travel down the y axis (subjectivity). This indicates that the most objective tweets tend to be closer to neutral whereas subjective tweets occur on a spectrum of covering neutral as well as highly polar (positive/ negative) sentiments. This implies that we are more likely to find polarized opinions in longer, more subjective tweets as compared to objective ones.
 
-The tweets were plotted on word clouds. Figure 4 and 5 show the word clouds for the positive and negative tweets respectively.  
+The tweets were plotted on word clouds. Figures below show the word clouds for the positive and negative tweets respectively.  
 (https://www.kaggle.com/barishasdemir/tweets-about-distance-learning)
 
 ![Picture4](https://user-images.githubusercontent.com/64619851/114301136-ceec3000-9adc-11eb-9b6b-1e46e8d6c4e3.jpg)
@@ -56,7 +56,7 @@ The tweets were plotted on word clouds. Figure 4 and 5 show the word clouds for 
 
 
 
-From Dataset-3, we used data from 2015-20 to derive a market trend for e-learning demand. We found that students from title IV institutions who enrolled online entirely or partially comprised 36.6% of the e-learning market share, 2019-20. The annual shares are shown in Figure 6. A linear trend is seen for market growth this indicates the market to be maturing. Over the five years there was an average growth rate of 1.46%.
+From Dataset-3, we used data from 2015-20 to derive a market trend for e-learning demand. We found that students from title IV institutions who enrolled online entirely or partially comprised 36.6% of the e-learning market share, 2019-20. The annual shares are shown in Figure below. A linear trend is seen for market growth this indicates the market to be maturing. Over the five years there was an average growth rate of 1.46%.
 
 ![image](https://user-images.githubusercontent.com/63796888/114313944-193bd400-9b12-11eb-8944-540b784c0411.png)
 
