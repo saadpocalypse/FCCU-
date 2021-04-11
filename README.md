@@ -1,3 +1,5 @@
+![One](https://user-images.githubusercontent.com/64619851/114312189-38833300-9b0b-11eb-8e68-3b6951527840.PNG)
+![Two](https://user-images.githubusercontent.com/64619851/114312193-3a4cf680-9b0b-11eb-9aa3-17dd720386e0.PNG)
 # Stanford_Data_Project-Dataset_2:  https://www.kaggle.com/barishasdemir/tweets-about-distance-learning
 The word cloud graphs are based on Dataset-2
 https://docs.google.com/forms/d/18jb3Sn2OETG4MtlGbgfjuNMmuLYvOJ2TYUEVZEgKWTU/edit#responses
